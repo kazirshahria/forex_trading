@@ -1,2 +1,3 @@
-# forex_trading
-Developing strategies and conducting market analysis to be a smarter and profitable trader
+# Forex: Algo Trading & Strategies
+
+**Goal**: Become a profitable and smarter trader
